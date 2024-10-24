@@ -27,6 +27,10 @@ Sustainability in construction is no longer just a trend, it's a necessity. Gove
 ## Contributing:
 This repository is open for contributions! If you have practical tips, success stories, or helpful tools that have worked for your business, feel free to submit them here. Let’s build a resource hub that helps SMEs thrive sustainably.
 
+## Guides
+
+- [Introduction to Sustainable Construction Practices for SMEs](https://github.com/PaulBrothwood/Sustainable-Construction-Practices-SMEs/blob/main/Guides/Introduction-to-Sustainable-Construction.md)
+
 ## How to Reach Me:
 For any questions or collaborations, feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/paulbrothwood)
