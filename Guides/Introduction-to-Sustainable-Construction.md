@@ -43,3 +43,5 @@ Certifications are a great way to prove to clients that you’re committed to su
 Implementing sustainable construction practices might seem challenging for SMEs, but starting with these manageable steps can make a significant difference. From waste reduction and energy efficiency to sustainable sourcing and certifications, every small change contributes to a larger impact.
 
 Sustainability isn’t just about meeting regulations—it's an opportunity to cut costs, improve efficiency, and future-proof your business.
+
+By Paul Brothwood BA(Hons) DipFSM DipFA CeFA CeMAP PIEMA REnvP TechIOSH PRINCE2 & ITIL4 Practitioner
