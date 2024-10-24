@@ -32,5 +32,5 @@ For any questions or collaborations, feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/paulbrothwood)
 - [Email](mailto:paul.brothwood@tnewmanltd.co.uk)
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
